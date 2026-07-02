@@ -13,7 +13,7 @@ Im a bit new in the world of tech, so i wanted to do a little project called
 ## Linux install
 
 ```bash
-git clone https://github.com/robinvinconneau-ship-it/Rain-Launcher.git
+git clone https://github.com/robinvinconneau-ship-it/-Rain-s-Launcher-.git
 cd Rain-Launcher
 chmod +x install.sh
 ./install.sh
