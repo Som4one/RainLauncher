@@ -46,7 +46,7 @@ or launch it from your application menu.
 
 ## Windows
 
-Grab the `.exe` from the [Releases](https://github.com/robinvinconneau-ship-it/Rain-Launcher/releases)
+Grab the `.exe` from the [Releases](https://github.com/robinvinconneau-ship-it/-Rain-s-Launcher-/releases)
 page, or run `RainLauncher.py` directly with Python 3 + `pip install pillow`.
 ## Windows Install Dependecies
 
@@ -56,7 +56,7 @@ You can install all required core components (Python 3, Tkinter, Pip, Pillow, an
 2. Copy and paste the following command and press **Enter**:
 
 ```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12; irm [https://raw.githubusercontent.com/robinvinconneau-ship-it/-Rain-s-Launcher-/main/install_dependencies.ps1](https://raw.githubusercontent.com/robinvinconneau-ship-it/-Rain-s-Launcher-/main/install_dependencies.ps1) | iex
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12; irm [https://raw.githubusercontent.com/robinvinconneau-ship-it/-Rain-s-Launcher-/main/install.ps1](https://raw.githubusercontent.com/robinvinconneau-ship-it/-Rain-s-Launcher-/main/install.ps1) | iex
 ```
 
 - On Linux, `.exe` games are launched through Wine automatically.
